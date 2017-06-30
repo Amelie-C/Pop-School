@@ -1,0 +1,20 @@
+.Ask {
+
+	width: 100%;
+	/*background-color: #F2EFCB;*/
+	padding:1em;
+	margin:0.5em;
+	box-sizing: border-box;
+	border-radius: 20px;
+}
+
+.Ask p {
+	text-align:center;
+}
+
+.answer {
+	border-radius:10px;
+	margin:1em;
+	min-height: ;
+
+}
